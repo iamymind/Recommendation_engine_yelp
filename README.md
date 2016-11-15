@@ -1,4 +1,4 @@
-# Recommendation_engine_yelp
+# Yelp recommendation system
 Yel recommendation system. The system is based on finding the most matchnig restaurants that are:
 - Match user`s tastes and preferences (based on reviews of othe Yelp users with similar tastes and preferences)
 - Located in the place where the user is active the most
